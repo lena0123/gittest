@@ -8,7 +8,7 @@
 <body>
 <h2>Indizierte Array</h2>
 <?php
-$fussballvereine[] = "Bayern München";
+$fussballvereine[] = "Bayern Muenchen";
 $fussballvereine[] = "Bayer Leverkusen";
 $fussballvereine[] = "Eintracht Frankfurt";
 echo $fussballvereine[1] . "<br />"; //gibt Bayer Leverkusen aus
