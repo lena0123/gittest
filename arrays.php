@@ -13,7 +13,7 @@ $fussballvereine[] = "Bayer Leverkusen";
 $fussballvereine[] = "Eintracht Frankfurt";
 echo $fussballvereine[1] . "<br />"; //gibt Bayer Leverkusen aus
 //oder so
-$vereine = array("Bayern München", "Bayer Leverkusen", "Eintracht Frankfurt");
+$vereine = array("Bayern Muenchen", "Bayer Leverkusen", "Eintracht Frankfurt");
 echo $vereine[0]; //gibt Bayern München aus
 ?>
 <h2>Assoziative Array</h2>
